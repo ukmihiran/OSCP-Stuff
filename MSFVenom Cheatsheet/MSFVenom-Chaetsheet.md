@@ -1,7 +1,5 @@
 ## MSFVenom Cheatsheet 
 
-![Msfvenom.png]https://cyberbotnet.com/assets/images/post5/Msfvenom.png)
-
 ### Binaries Payloads
 
 #### Linux Meterpreter Reverse Shell
